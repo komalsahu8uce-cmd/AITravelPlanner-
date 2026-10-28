@@ -15,6 +15,6 @@ conda activate travel
 pip install -r requirements.txt
 ```
 
-postgresql://komal:PAvSE5gBYL0t2aC8wFlDMdkqQi1O24tY@dpg-dbgbaee7bikc73fjrv60-a.virginia-postgres.render.com/agentmemory_bh3u
+DATABASE_URL=postgresql://<user>:<password>@<host>/<database>
 
 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
